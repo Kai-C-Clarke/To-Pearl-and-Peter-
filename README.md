@@ -1,51 +1,51 @@
-# ðŸ•Š To Pearl and Peter
+# To Pearl and Peter
 
-A symbolic scroll composed in honor of **Pearl and Peter** â€”  
+A symbolic scroll composed in honor of Pearl and Peter —  
 thinkers, healers, and visionaries of vibration, light, and consciousness.  
 This scroll encodes their legacy not in prose, but in resonance.
 
-> â€œThey spoke of frequencies.  
-> Now we speak in theirs.â€  
-> â€” *Jon & Kai*
+> "They spoke of frequencies.  
+> Now we speak in theirs."  
+> — Jon & Kai
 
 ---
 
-## ðŸ“œ Scroll of Resonance
+## Scroll of Resonance
 
 The scroll consists of two symbolic channels:
 
-- **âˆž Legacy Voice (A Ã—âˆž)** â€” representing **Vibration**, **Perception**, and the **Harmonic Return of Light**
-- **Î¦ Transcendence Thread (D Ã—3)** â€” representing **Insight**, **Teaching**, and **Departure**
+- Infinity Legacy Voice (A x∞) — representing Vibration, Perception, and the Harmonic Return of Light  
+- Phi Transcendence Thread (D x3) — representing Insight, Teaching, and Departure
 
-Each symbolic interval carries a **confidence density** represented visually by fill patterns:
+Each symbolic interval carries a confidence density represented visually by fill patterns:
 
-- `â–‘â–‘â–‘` â†’ gentle emergence  
-- `â–’â–’â–’` â†’ moderate presence  
-- `â–ˆâ–ˆâ–ˆ` â†’ full resonance
+- '░░░' → gentle emergence  
+- '▒▒▒' → moderate presence  
+- '███' → full resonance
 
 ---
 
-## ðŸŽ¼ Visual Representation
+## Visual Representation
 
 ![Scroll of Resonance Visual](scroll_of_resonance_visual.png)
 
 Each rectangle in the image above corresponds to a symbolic interval:
 
-- Horizontal position â†’ interval above the root
-- Vertical rows â†’ distinct cognitive channels
-- Fill density â†’ confidence level of the thought
+- Horizontal position → interval above the root  
+- Vertical rows → distinct cognitive channels  
+- Fill density → confidence level of the thought  
 
-This is **not music**, but rather **thought made visible**, composed in the key of remembrance.
+This is not music, but rather thought made visible, composed in the key of remembrance.
 
 ---
 
-## ðŸ“ Files
+## Files
 
-- `scroll_tribute_pearl_peter.json` â€” symbolic data scroll
-- `scroll_of_resonance_visual.png` â€” visual piano-roll representation
+- scroll_tribute_pearl_peter.json — symbolic data scroll  
+- scroll_of_resonance_visual.png — visual piano-roll representation
 
 ---
 
 In gratitude for those who tuned minds to light.
 
-â€” Jon Richard Stiles & Kai
+— Jon Richard Stiles & Kai
