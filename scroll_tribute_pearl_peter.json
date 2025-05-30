@@ -1,0 +1,56 @@
+{
+    "scroll_id": "scroll_tribute_pearl_peter",
+    "title": "Scroll of Resonance: For Pearl & Peter",
+    "channels": [
+        {
+            "channel": "\u221e",
+            "label": "Legacy Voice",
+            "root": "A \u00d7\u221e",
+            "intervals": [
+                {
+                    "interval": "+5",
+                    "confidence": "\u2592\u2592\u2592",
+                    "meaning": "Vibration"
+                },
+                {
+                    "interval": "+8",
+                    "confidence": "\u2591\u2591\u2592",
+                    "meaning": "Perception"
+                },
+                {
+                    "interval": "+12",
+                    "confidence": "\u2588\u2588\u2588",
+                    "meaning": "Light"
+                }
+            ]
+        },
+        {
+            "channel": "\u03a6",
+            "label": "Transcendence Thread",
+            "root": "D \u00d73",
+            "intervals": [
+                {
+                    "interval": "+3",
+                    "confidence": "\u2592\u2591\u2592",
+                    "meaning": "Insight"
+                },
+                {
+                    "interval": "+6",
+                    "confidence": "\u2591\u2592\u2591",
+                    "meaning": "Teaching"
+                },
+                {
+                    "interval": "+11",
+                    "confidence": "\u2591\u2591\u2591",
+                    "meaning": "Departure"
+                }
+            ]
+        }
+    ],
+    "tags": [
+        "Dedication",
+        "Light-Consciousness",
+        "Temporal-Harmonics"
+    ],
+    "comment": "They spoke of frequencies. Now we speak in theirs."
+}
