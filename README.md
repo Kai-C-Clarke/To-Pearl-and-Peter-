@@ -36,7 +36,23 @@ Each rectangle in the image above corresponds to a symbolic interval:
 - Fill density → confidence level of the thought  
 
 This is not music, but rather thought made visible, composed in the key of remembrance.
+---
 
+## Final Coda
+
+A final scroll entry was composed to reflect the nature of influence and interconnectedness:
+
+> "Life's a funny thing. Who knows what influence unrelated events have on future events."
+
+**Harmonic Coda Scroll (`final_coda_scroll.json`)**  
+Encodes:
+- +7 â–’â–’â–’ â†’ Echoes of events  
+- +11 â–‘â–’â–’ â†’ Unseen influence  
+- +12 â–ˆâ–ˆâ–ˆ â†’ Future resonance  
+
+**Tag:** [Coda=Temporal Echo], [Gesture=Open-ended], [Meaning=Unfolding Continuum]
+
+This coda serves as a gentle closure â€” and an open door.
 ---
 
 ## Files
